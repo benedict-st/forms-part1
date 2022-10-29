@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/forms-part1/static/css/main.6db5275d.chunk.css",
+    "main.js": "/forms-part1/static/js/main.621c2279.chunk.js",
+    "main.js.map": "/forms-part1/static/js/main.621c2279.chunk.js.map",
+    "runtime-main.js": "/forms-part1/static/js/runtime-main.35205e5e.js",
+    "runtime-main.js.map": "/forms-part1/static/js/runtime-main.35205e5e.js.map",
+    "static/css/2.07203677.chunk.css": "/forms-part1/static/css/2.07203677.chunk.css",
+    "static/js/2.2340677f.chunk.js": "/forms-part1/static/js/2.2340677f.chunk.js",
+    "static/js/2.2340677f.chunk.js.map": "/forms-part1/static/js/2.2340677f.chunk.js.map",
+    "static/js/3.c9e77383.chunk.js": "/forms-part1/static/js/3.c9e77383.chunk.js",
+    "static/js/3.c9e77383.chunk.js.map": "/forms-part1/static/js/3.c9e77383.chunk.js.map",
+    "index.html": "/forms-part1/index.html",
+    "static/css/2.07203677.chunk.css.map": "/forms-part1/static/css/2.07203677.chunk.css.map",
+    "static/css/main.6db5275d.chunk.css.map": "/forms-part1/static/css/main.6db5275d.chunk.css.map",
+    "static/js/2.2340677f.chunk.js.LICENSE.txt": "/forms-part1/static/js/2.2340677f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.35205e5e.js",
+    "static/css/2.07203677.chunk.css",
+    "static/js/2.2340677f.chunk.js",
+    "static/css/main.6db5275d.chunk.css",
+    "static/js/main.621c2279.chunk.js"
+  ]
+}
